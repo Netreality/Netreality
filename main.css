@@ -520,7 +520,7 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/logo.png) no-repeat;
+	background: url(logo.png) no-repeat;
 	width: 230px;
 	height: 30px;
 	text-indent: -9999px;
@@ -583,7 +583,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .menu-nav {
-	background:url(../img/menu-mobile.png) 0 0 no-repeat;
+	background:url(menu-mobile.png) 0 0 no-repeat;
 	width: 16px;
 	height: 16px;
 	display: block;

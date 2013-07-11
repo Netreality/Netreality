@@ -77,9 +77,9 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content"><img src="_include/img/netreality.png" alt="Website Design" class="img"><h2>Web Design made in Liverpool</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
-		{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content"><img src="_include/img/netreality.png" alt="Netreality" class="img"><h2>A local Liverpool Web Designer</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content"><img src="_include/img/netreality.png" alt="website design company" class="img"><h2>Supporting Liverpool Businesses</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
+											{image : 'image03.jpg', title : '<div class="slide-content"><img src="netreality.png" alt="Website Design" class="img"><h2>Web Design made in Liverpool</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
+		{image : 'image01.jpg', title : '<div class="slide-content"><img src="netreality.png" alt="Netreality" class="img"><h2>A local Liverpool Web Designer</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
+											{image : 'image04.jpg', title : '<div class="slide-content"><img src="netreality.png" alt="website design company" class="img"><h2>Supporting Liverpool Businesses</h2><h3>0151 734 6228</h3></div>', thumb : '', url : ''},
 									],
 									
 		// Theme Options			   
