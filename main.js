@@ -194,7 +194,7 @@ BRUSHED.contactForm = function(){
 		
 		$.ajax({
 			type: "POST",
-			url: "_include/php/contact.php",
+			url: "contact.php",
 			data: fields,
 			dataType: 'json',
 			success: function(response) {
